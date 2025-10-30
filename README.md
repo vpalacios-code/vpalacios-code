@@ -8,14 +8,8 @@
 </div>  
 
 <div align="center">
-  <p>  
-    ¡Bienvenido a mi rincón en GitHub! Soy un desarrollador de software con experiencia en [menciona tus áreas, ej: desarrollo web front-end y back-end, aplicaciones móviles, 
-    ciencia de datos]. Me encanta transformar ideas en código funcional y escalable.
-    <br>
-    Actualmente, estoy enfocado en [menciona algo en lo que estés trabajando o aprendiendo, ej: perfeccionar mis habilidades en React y Node.js] y siempre estoy abierto a 
-    colaborar en proyectos interesantes.
-    <br>
-    Fuera del código, disfruto [menciona hobbies, ej: leer ciencia ficción, hacer senderismo, jugar videojuegos].
+  <p>  Ingeniero de Sistemas Informaticos con experiencia en desarrollador web, creación de aplicaciones y sitios web. Con conocimientos en
+       tecnologías como PHP(Laravel), JavaScript(Sprint Boot), Angular, Postgres y MySql. Lo que me permite diseñar y desarrollar soluciones robustas y eficientes.
   </p>
 </div>
 
