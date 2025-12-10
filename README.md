@@ -8,7 +8,7 @@
 </div>  
 
 <div align="center">
-  <p>  Ingeniero de Sistemas Informaticos con experiencia en desarrollador web, creación de aplicaciones y sitios web. Con conocimientos en
+  <p>  Ingeniero de Sistemas Informáticos con experiencia en desarrollador web, creación de aplicaciones y sitios web. Con conocimientos en
        tecnologías como PHP(Laravel), JavaScript(Sprint Boot), Angular, Postgres y MySql. Lo que me permite diseñar y desarrollar soluciones robustas y eficientes.
   </p>
 </div>
